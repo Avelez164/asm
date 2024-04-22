@@ -11,7 +11,7 @@ Running the Program
 To run this program:
 
 Ensure it's loaded on an x86 system connected to a traffic light controller mapped to output port 4.
-Execute the file Traffic_Lights.exe to start the traffic light sequence.
+Execute the file to start the traffic light sequence.
 Light State Transitions
 transition1: North and South are green; East and West are red.
 transition2: All directions are yellow.
