@@ -2,7 +2,7 @@
 ;Red is the least significant of each consecutive 3 bits : 0,3,6,9
 ;Yellow is the middle significant of each 3 consecutive bits: 1,4,7,A
 ;Green is the most significant of each 3 consecutive bits: 2,5,8,B
-;the last 4 bits are unused C,D,E,F
+;the last 4-bits are unused C,D,E,F
 
 name "traffic"
 mov ax, 249h  ; 249h means all are red 0,3,6,9 bits are all ones
