@@ -9,11 +9,3 @@ Yellow: Bits 1, 4, 7, 10 (A)
 Green: Bits 2, 5, 8, 11 (B)
 Running the Program
 To run this program:
-
-Ensure it's loaded on an x86 system connected to a traffic light controller mapped to output port 4.
-Execute the file to start the traffic light sequence.
-Light State Transitions
-transition1: North and South are green; East and West are red.
-transition2: All directions are yellow.
-transition3: East and West are green; North and South are red.
-transition4: All directions are yellow.
